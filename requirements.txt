@@ -1,4 +1,4 @@
-torch==2.0.1
+torch
 typing_extensions
 alabaster==0.7.12
 altair==4.1.0
