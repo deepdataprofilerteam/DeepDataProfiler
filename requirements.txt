@@ -128,7 +128,7 @@ threadpoolctl==2.2.0
 toml==0.10.2
 toolz==0.11.1
 torch-lucent==0.1.8
-torchvision==0.10.0
+torchvision
 tornado @ file:///opt/concourse/worker/volumes/live/d531d395-893c-4ca1-6a5f-717b318eb08c/volume/tornado_1606942307627/work
 tqdm==4.61.2
 traitlets==5.0.5
