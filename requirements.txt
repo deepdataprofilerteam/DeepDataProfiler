@@ -1,5 +1,5 @@
-typing_extensions==4.4.0
 torch==2.0.1
+typing_extensions==4.4.0
 alabaster==0.7.12
 altair==4.1.0
 appnope==0.1.2
